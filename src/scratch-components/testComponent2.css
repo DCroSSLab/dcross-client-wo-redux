@@ -1,0 +1,9 @@
+.filter-button {
+    all: unset;
+    height: 30px;
+    width: 30px;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+    /*border: 2px rgba(0, 0, 110, 0.6);*/
+    border-radius: 4px;
+    background-color: #fff;
+}
